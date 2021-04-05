@@ -1,0 +1,11 @@
+Package: hack-mode
+Fetcher: github
+Source:  https://github.com/hhvm/hack-mode.git
+
+Updating /mnt/store/melpa/working/hack-mode/
+Built hack-mode in 3.591s, finished at Mon Apr  5 15:57:45 2021
+ ✓ Success:
+ 88K -rw-r--r-- 1 root root  87K Apr  5 15:57 packages/hack-mode-20201006.43.el
+4.0K -rw-r--r-- 1 root root  439 Apr  5 15:57 packages/hack-mode-20201006.43.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:57 packages/hack-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  116 Apr  5 15:57 packages/hack-mode-readme.txt

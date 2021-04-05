@@ -1,0 +1,10 @@
+Package: ac-mozc
+Fetcher: github
+Source:  https://github.com/igjit/ac-mozc.git
+
+Updating /mnt/store/melpa/working/ac-mozc/
+Built ac-mozc in 7.505s, finished at Mon Apr  5 16:37:26 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.1K Apr  5 16:37 packages/ac-mozc-20150227.1619.el
+4.0K -rw-r--r-- 1 root root  378 Apr  5 16:37 packages/ac-mozc-20150227.1619.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:37 packages/ac-mozc-badge.svg

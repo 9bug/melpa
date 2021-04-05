@@ -1,0 +1,10 @@
+Package: hayoo
+Fetcher: github
+Source:  https://github.com/benma/hayoo.el.git
+
+Updating /mnt/store/melpa/working/hayoo/
+Built hayoo in 3.081s, finished at Mon Apr  5 15:58:07 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K Apr  5 15:58 packages/hayoo-20140831.1221.el
+4.0K -rw-r--r-- 1 root root  380 Apr  5 15:58 packages/hayoo-20140831.1221.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:58 packages/hayoo-badge.svg

@@ -1,0 +1,11 @@
+Package: flycheck-posframe
+Fetcher: github
+Source:  https://github.com/alexmurray/flycheck-posframe.git
+
+Updating /mnt/store/melpa/working/flycheck-posframe/
+Built flycheck-posframe in 2.871s, finished at Mon Apr  5 16:56:46 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K Apr  5 16:56 packages/flycheck-posframe-20210316.618.el
+4.0K -rw-r--r-- 1 root root  460 Apr  5 16:56 packages/flycheck-posframe-20210316.618.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:56 packages/flycheck-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root  182 Apr  5 16:56 packages/flycheck-posframe-readme.txt

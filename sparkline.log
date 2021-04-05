@@ -1,0 +1,11 @@
+Package: sparkline
+Fetcher: github
+Source:  https://github.com/woudshoo/sparkline.git
+
+Updating /mnt/store/melpa/working/sparkline/
+Built sparkline in 3.198s, finished at Mon Apr  5 16:27:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K Apr  5 16:27 packages/sparkline-20150101.1319.el
+4.0K -rw-r--r-- 1 root root  357 Apr  5 16:27 packages/sparkline-20150101.1319.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:27 packages/sparkline-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Apr  5 16:27 packages/sparkline-readme.txt

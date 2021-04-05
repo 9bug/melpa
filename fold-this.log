@@ -1,0 +1,5 @@
+Package: fold-this
+Fetcher: github
+Source:  https://github.com/magnars/fold-this.el.git
+
+Updating /mnt/store/melpa/working/fold-this/

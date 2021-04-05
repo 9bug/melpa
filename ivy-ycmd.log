@@ -1,0 +1,11 @@
+Package: ivy-ycmd
+Fetcher: github
+Source:  https://github.com/abingham/emacs-ivy-ycmd.git
+
+Updating /mnt/store/melpa/working/ivy-ycmd/
+Built ivy-ycmd in 3.484s, finished at Mon Apr  5 16:04:07 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K Apr  5 16:04 packages/ivy-ycmd-20180909.1225.el
+4.0K -rw-r--r-- 1 root root  451 Apr  5 16:04 packages/ivy-ycmd-20180909.1225.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:04 packages/ivy-ycmd-badge.svg
+4.0K -rw-r--r-- 1 root root  147 Apr  5 16:04 packages/ivy-ycmd-readme.txt

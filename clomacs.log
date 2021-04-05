@@ -1,0 +1,11 @@
+Package: clomacs
+Fetcher: github
+Source:  https://github.com/clojure-emacs/clomacs.git
+
+Updating /mnt/store/melpa/working/clomacs/
+Built clomacs in 3.235s, finished at Mon Apr  5 16:43:37 2021
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K Apr  5 16:43 packages/clomacs-20201224.1358.el
+4.0K -rw-r--r-- 1 root root  461 Apr  5 16:43 packages/clomacs-20201224.1358.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:43 packages/clomacs-badge.svg
+4.0K -rw-r--r-- 1 root root  283 Apr  5 16:43 packages/clomacs-readme.txt

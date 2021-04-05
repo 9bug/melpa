@@ -1,0 +1,11 @@
+Package: frameshot
+Fetcher: github
+Source:  https://github.com/tarsius/frameshot.git
+
+Updating /mnt/store/melpa/working/frameshot/
+Built frameshot in 3.055s, finished at Mon Apr  5 15:54:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K Apr  5 15:54 packages/frameshot-20200103.1238.el
+4.0K -rw-r--r-- 1 root root  347 Apr  5 15:54 packages/frameshot-20200103.1238.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:54 packages/frameshot-badge.svg
+4.0K -rw-r--r-- 1 root root  344 Apr  5 15:54 packages/frameshot-readme.txt

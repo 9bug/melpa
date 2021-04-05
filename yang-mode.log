@@ -1,0 +1,11 @@
+Package: yang-mode
+Fetcher: github
+Source:  https://github.com/mbj4668/yang-mode.git
+
+Updating /mnt/store/melpa/working/yang-mode/
+Built yang-mode in 3.635s, finished at Mon Apr  5 16:35:46 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Apr  5 16:35 packages/yang-mode-20190507.724.el
+4.0K -rw-r--r-- 1 root root  277 Apr  5 16:35 packages/yang-mode-20190507.724.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:35 packages/yang-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 3.9K Apr  5 16:35 packages/yang-mode-readme.txt

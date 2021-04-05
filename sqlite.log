@@ -1,0 +1,11 @@
+Package: sqlite
+Fetcher: gitlab
+Source:  https://gitlab.com/cnngimenez/sqlite.el.git
+
+Updating /mnt/store/melpa/working/sqlite/
+Built sqlite in 3.804s, finished at Mon Apr  5 16:28:21 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:28 packages/sqlite-20201227.1822.el
+4.0K -rw-r--r-- 1 root root  305 Apr  5 16:28 packages/sqlite-20201227.1822.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:28 packages/sqlite-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Apr  5 16:28 packages/sqlite-readme.txt

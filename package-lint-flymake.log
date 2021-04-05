@@ -1,0 +1,11 @@
+Package: package-lint-flymake
+Fetcher: github
+Source:  https://github.com/purcell/package-lint.git
+
+Updating /mnt/store/melpa/working/package-lint-flymake/
+Built package-lint-flymake in 3.448s, finished at Mon Apr  5 16:17:46 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.8K Apr  5 16:17 packages/package-lint-flymake-20210110.2231.el
+4.0K -rw-r--r-- 1 root root  278 Apr  5 16:17 packages/package-lint-flymake-20210110.2231.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:17 packages/package-lint-flymake-badge.svg
+4.0K -rw-r--r-- 1 root root  345 Apr  5 16:17 packages/package-lint-flymake-readme.txt

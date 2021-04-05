@@ -1,0 +1,10 @@
+Package: znc
+Fetcher: github
+Source:  https://github.com/sshirokov/ZNC.el.git
+
+Updating /mnt/store/melpa/working/znc/
+Built znc in 3.169s, finished at Mon Apr  5 16:36:23 2021
+ ✓ Success:
+ 12K -rwxr-xr-x 1 root root 9.3K Apr  5 16:36 packages/znc-20210304.2337.el
+4.0K -rw-r--r-- 1 root root  279 Apr  5 16:36 packages/znc-20210304.2337.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:36 packages/znc-badge.svg

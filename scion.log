@@ -1,0 +1,10 @@
+Package: scion
+Fetcher: github
+Source:  https://github.com/nominolo/scion.git
+
+Updating /mnt/store/melpa/working/scion/
+Built scion in 3.734s, finished at Mon Apr  5 16:24:36 2021
+ ✓ Success:
+ 96K -rw-r--r-- 1 root root  93K Apr  5 16:24 packages/scion-20130315.1255.el
+4.0K -rw-r--r-- 1 root root  215 Apr  5 16:24 packages/scion-20130315.1255.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:24 packages/scion-badge.svg

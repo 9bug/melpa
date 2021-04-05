@@ -1,0 +1,11 @@
+Package: shpec-mode
+Fetcher: github
+Source:  https://github.com/shpec/shpec-mode.git
+
+Updating /mnt/store/melpa/working/shpec-mode/
+Built shpec-mode in 9.080s, finished at Mon Apr  5 16:26:07 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.1K Apr  5 16:26 packages/shpec-mode-20150530.922.el
+4.0K -rw-r--r-- 1 root root  381 Apr  5 16:26 packages/shpec-mode-20150530.922.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:26 packages/shpec-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  154 Apr  5 16:26 packages/shpec-mode-readme.txt

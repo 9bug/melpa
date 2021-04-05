@@ -1,0 +1,11 @@
+Package: emms-mark-ext
+Fetcher: github
+Source:  https://github.com/vapniks/emms-mark-ext.git
+
+Updating /mnt/store/melpa/working/emms-mark-ext/
+Built emms-mark-ext in 3.755s, finished at Mon Apr  5 16:51:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:51 packages/emms-mark-ext-20130529.327.el
+4.0K -rw-r--r-- 1 root root  396 Apr  5 16:51 packages/emms-mark-ext-20130529.327.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:51 packages/emms-mark-ext-badge.svg
+4.0K -rw-r--r-- 1 root root  252 Apr  5 16:51 packages/emms-mark-ext-readme.txt

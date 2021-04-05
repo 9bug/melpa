@@ -1,0 +1,11 @@
+Package: inlineR
+Fetcher: github
+Source:  https://github.com/emacsattic/inlineR.git
+
+Updating /mnt/store/melpa/working/inlineR/
+Built inlineR in 7.384s, finished at Mon Apr  5 16:02:51 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.7K Apr  5 16:02 packages/inlineR-20191017.1920.el
+4.0K -rw-r--r-- 1 root root  337 Apr  5 16:02 packages/inlineR-20191017.1920.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:02 packages/inlineR-badge.svg
+4.0K -rw-r--r-- 1 root root  266 Apr  5 16:02 packages/inlineR-readme.txt

@@ -1,0 +1,11 @@
+Package: clipetty
+Fetcher: github
+Source:  https://github.com/spudlyo/clipetty.git
+
+Updating /mnt/store/melpa/working/clipetty/
+Built clipetty in 4.255s, finished at Mon Apr  5 16:43:22 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K Apr  5 16:43 packages/clipetty-20200327.2241.el
+4.0K -rw-r--r-- 1 root root  410 Apr  5 16:43 packages/clipetty-20200327.2241.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:43 packages/clipetty-badge.svg
+4.0K -rw-r--r-- 1 root root  260 Apr  5 16:43 packages/clipetty-readme.txt

@@ -1,0 +1,11 @@
+Package: howdoyou
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-howdoyou.git
+
+Updating /mnt/store/melpa/working/howdoyou/
+Built howdoyou in 2.666s, finished at Mon Apr  5 16:01:07 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K Apr  5 16:01 packages/howdoyou-20210217.1723.el
+4.0K -rw-r--r-- 1 root root  428 Apr  5 16:01 packages/howdoyou-20210217.1723.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:01 packages/howdoyou-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K Apr  5 16:01 packages/howdoyou-readme.txt

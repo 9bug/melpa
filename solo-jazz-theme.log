@@ -1,0 +1,11 @@
+Package: solo-jazz-theme
+Fetcher: github
+Source:  https://github.com/cstby/solo-jazz-emacs-theme.git
+
+Updating /mnt/store/melpa/working/solo-jazz-theme/
+Built solo-jazz-theme in 3.355s, finished at Mon Apr  5 16:27:40 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  39K Apr  5 16:27 packages/solo-jazz-theme-20201106.1640.el
+4.0K -rw-r--r-- 1 root root  300 Apr  5 16:27 packages/solo-jazz-theme-20201106.1640.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:27 packages/solo-jazz-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  110 Apr  5 16:27 packages/solo-jazz-theme-readme.txt

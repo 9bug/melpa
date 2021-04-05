@@ -1,0 +1,10 @@
+Package: helm-xref
+Fetcher: github
+Source:  https://github.com/brotzeit/helm-xref.git
+
+Updating /mnt/store/melpa/working/helm-xref/
+Built helm-xref in 3.417s, finished at Mon Apr  5 16:00:16 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.6K Apr  5 16:00 packages/helm-xref-20201004.1817.el
+4.0K -rw-r--r-- 1 root root  392 Apr  5 16:00 packages/helm-xref-20201004.1817.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:00 packages/helm-xref-badge.svg

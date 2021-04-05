@@ -1,0 +1,10 @@
+Package: fzf
+Fetcher: github
+Source:  https://github.com/bling/fzf.el.git
+
+Updating /mnt/store/melpa/working/fzf/
+Built fzf in 4.369s, finished at Mon Apr  5 15:54:37 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.5K Apr  5 15:54 packages/fzf-20210101.1358.el
+4.0K -rw-r--r-- 1 root root  316 Apr  5 15:54 packages/fzf-20210101.1358.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:54 packages/fzf-badge.svg

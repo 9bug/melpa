@@ -1,0 +1,11 @@
+Package: faff-theme
+Fetcher: github
+Source:  https://github.com/WJCFerguson/emacs-faff-theme.git
+
+Updating /mnt/store/melpa/working/faff-theme/
+Built faff-theme in 3.381s, finished at Mon Apr  5 16:54:54 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  5 16:54 packages/faff-theme-20210331.233.el
+4.0K -rw-r--r-- 1 root root  449 Apr  5 16:54 packages/faff-theme-20210331.233.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:54 packages/faff-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  391 Apr  5 16:54 packages/faff-theme-readme.txt

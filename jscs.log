@@ -1,0 +1,11 @@
+Package: jscs
+Fetcher: github
+Source:  https://github.com/papaeye/emacs-jscs.git
+
+Updating /mnt/store/melpa/working/jscs/
+Built jscs in 4.335s, finished at Mon Apr  5 16:04:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:04 packages/jscs-20151015.1749.el
+4.0K -rw-r--r-- 1 root root  382 Apr  5 16:04 packages/jscs-20151015.1749.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:04 packages/jscs-badge.svg
+4.0K -rw-r--r-- 1 root root  649 Apr  5 16:04 packages/jscs-readme.txt

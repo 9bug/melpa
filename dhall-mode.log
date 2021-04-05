@@ -1,0 +1,11 @@
+Package: dhall-mode
+Fetcher: github
+Source:  https://github.com/psibi/dhall-mode.git
+
+Updating /mnt/store/melpa/working/dhall-mode/
+Built dhall-mode in 3.691s, finished at Mon Apr  5 16:47:27 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Apr  5 16:47 packages/dhall-mode-20200822.258.el
+4.0K -rw-r--r-- 1 root root  435 Apr  5 16:47 packages/dhall-mode-20200822.258.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:47 packages/dhall-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  315 Apr  5 16:47 packages/dhall-mode-readme.txt

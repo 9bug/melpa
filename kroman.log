@@ -1,0 +1,11 @@
+Package: kroman
+Fetcher: github
+Source:  https://github.com/zhangkaiyulw/kroman-el.git
+
+Updating /mnt/store/melpa/working/kroman/
+Built kroman in 3.150s, finished at Mon Apr  5 16:06:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K Apr  5 16:06 packages/kroman-20150827.2340.el
+4.0K -rw-r--r-- 1 root root  278 Apr  5 16:06 packages/kroman-20150827.2340.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:06 packages/kroman-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  5 16:06 packages/kroman-readme.txt

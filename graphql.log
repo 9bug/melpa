@@ -1,0 +1,17 @@
+Package: graphql
+Fetcher: github
+Source:  https://github.com/vermiculus/graphql.el.git
+
+Updating /mnt/store/melpa/working/graphql/
+Note: graphql :files spec is equivalent to the default.
+Built graphql in 6.197s, finished at Mon Apr  5 15:57:01 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K Apr  5 15:56 packages/graphql-20180912.31.el
+4.0K -rw-r--r-- 1 root root  359 Apr  5 15:57 packages/graphql-20180912.31.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:57 packages/graphql-badge.svg
+ 20K -rw-r--r-- 1 root root  17K Apr  5 15:57 packages/graphql-mode-20201001.2113.el
+4.0K -rw-r--r-- 1 root root  385 Apr  5 15:57 packages/graphql-mode-20201001.2113.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 14:53 packages/graphql-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  321 Apr  5 15:57 packages/graphql-mode-readme.txt
+4.0K -rw-r--r-- 1 root root  139 Apr  5 15:56 packages/graphql-mode.log
+4.0K -rw-r--r-- 1 root root  147 Apr  5 15:57 packages/graphql-readme.txt

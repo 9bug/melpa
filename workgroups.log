@@ -1,0 +1,11 @@
+Package: workgroups
+Fetcher: github
+Source:  https://github.com/tlh/workgroups.el.git
+
+Updating /mnt/store/melpa/working/workgroups/
+Built workgroups in 4.029s, finished at Mon Apr  5 16:35:02 2021
+ ✓ Success:
+ 80K -rw-r--r-- 1 root root  78K Apr  5 16:35 packages/workgroups-20110726.1641.el
+4.0K -rw-r--r-- 1 root root  341 Apr  5 16:35 packages/workgroups-20110726.1641.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:35 packages/workgroups-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Apr  5 16:35 packages/workgroups-readme.txt

@@ -1,0 +1,11 @@
+Package: ordinal
+Fetcher: github
+Source:  https://github.com/zonuexe/ordinal.el.git
+
+Updating /mnt/store/melpa/working/ordinal/
+Built ordinal in 6.895s, finished at Mon Apr  5 16:14:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.6K Apr  5 16:14 packages/ordinal-20190104.1421.el
+4.0K -rw-r--r-- 1 root root  375 Apr  5 16:14 packages/ordinal-20190104.1421.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:14 packages/ordinal-badge.svg
+4.0K -rw-r--r-- 1 root root  539 Apr  5 16:14 packages/ordinal-readme.txt

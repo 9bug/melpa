@@ -1,0 +1,12 @@
+(weblorg .
+	 [(20210308 109)
+	  ((templatel
+	    (0 1 5))
+	   (emacs
+	    (26 1)))
+	  "Static Site Generator for org-mode" tar
+	  ((:commit . "ad31736a0550006c8b73002013c23ca56a0251c4")
+	   (:authors
+	    ("Lincoln Clarete" . "lincoln@clarete.li"))
+	   (:maintainer "Lincoln Clarete" . "lincoln@clarete.li")
+	   (:url . "https://emacs.love/weblorg"))])

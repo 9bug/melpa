@@ -1,0 +1,11 @@
+Package: elx
+Fetcher: github
+Source:  https://github.com/emacscollective/elx.git
+
+Updating /mnt/store/melpa/working/elx/
+Built elx in 3.888s, finished at Mon Apr  5 16:51:19 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  35K Apr  5 16:51 packages/elx-20210228.2103.el
+4.0K -rw-r--r-- 1 root root  405 Apr  5 16:51 packages/elx-20210228.2103.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:51 packages/elx-badge.svg
+4.0K -rw-r--r-- 1 root root  397 Apr  5 16:51 packages/elx-readme.txt

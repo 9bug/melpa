@@ -1,0 +1,11 @@
+Package: tickscript-mode
+Fetcher: github
+Source:  https://github.com/msherry/tickscript-mode.git
+
+Updating /mnt/store/melpa/working/tickscript-mode/
+Built tickscript-mode in 3.780s, finished at Mon Apr  5 16:30:30 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  35K Apr  5 16:30 packages/tickscript-mode-20171219.203.el
+4.0K -rw-r--r-- 1 root root  378 Apr  5 16:30 packages/tickscript-mode-20171219.203.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:30 packages/tickscript-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Apr  5 16:30 packages/tickscript-mode-readme.txt

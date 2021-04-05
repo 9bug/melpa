@@ -1,0 +1,11 @@
+Package: llama
+Fetcher: git
+Source:  https://git.sr.ht/~tarsius/llama
+
+Updating /mnt/store/melpa/working/llama/
+Built llama in 3.342s, finished at Mon Apr  5 16:07:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.6K Apr  5 16:07 packages/llama-20210201.837.el
+4.0K -rw-r--r-- 1 root root  222 Apr  5 16:07 packages/llama-20210201.837.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:07 packages/llama-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Apr  5 16:07 packages/llama-readme.txt

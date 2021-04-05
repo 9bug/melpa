@@ -1,0 +1,11 @@
+Package: defproject
+Fetcher: github
+Source:  https://github.com/kotfic/defproject.git
+
+Updating /mnt/store/melpa/working/defproject/
+Built defproject in 3.370s, finished at Mon Apr  5 16:47:13 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.9K Apr  5 16:47 packages/defproject-20151201.2219.el
+4.0K -rw-r--r-- 1 root root  356 Apr  5 16:47 packages/defproject-20151201.2219.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:47 packages/defproject-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  5 16:47 packages/defproject-readme.txt

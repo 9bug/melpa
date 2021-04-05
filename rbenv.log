@@ -1,0 +1,11 @@
+Package: rbenv
+Fetcher: github
+Source:  https://github.com/senny/rbenv.el.git
+
+Updating /mnt/store/melpa/working/rbenv/
+Built rbenv in 3.543s, finished at Mon Apr  5 16:22:32 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.6K Apr  5 16:22 packages/rbenv-20141120.749.el
+4.0K -rw-r--r-- 1 root root  316 Apr  5 16:22 packages/rbenv-20141120.749.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:22 packages/rbenv-badge.svg
+4.0K -rw-r--r-- 1 root root  333 Apr  5 16:22 packages/rbenv-readme.txt

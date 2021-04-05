@@ -1,0 +1,11 @@
+Package: py-test
+Fetcher: github
+Source:  https://github.com/Bogdanp/py-test.el.git
+
+Updating /mnt/store/melpa/working/py-test/
+Built py-test in 3.227s, finished at Mon Apr  5 16:21:44 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Apr  5 16:21 packages/py-test-20151117.622.el
+4.0K -rw-r--r-- 1 root root  433 Apr  5 16:21 packages/py-test-20151117.622.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:21 packages/py-test-badge.svg
+4.0K -rw-r--r-- 1 root root 1.8K Apr  5 16:21 packages/py-test-readme.txt

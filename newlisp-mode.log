@@ -1,0 +1,11 @@
+Package: newlisp-mode
+Fetcher: github
+Source:  https://github.com/kosh04/newlisp-mode.git
+
+Updating /mnt/store/melpa/working/newlisp-mode/
+Built newlisp-mode in 3.300s, finished at Mon Apr  5 16:12:30 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K Apr  5 16:12 packages/newlisp-mode-20160226.1545.el
+4.0K -rw-r--r-- 1 root root  379 Apr  5 16:12 packages/newlisp-mode-20160226.1545.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:12 packages/newlisp-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  285 Apr  5 16:12 packages/newlisp-mode-readme.txt

@@ -1,0 +1,23 @@
+Package: nexus
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/emacs-nexus.git
+
+Updating /mnt/store/melpa/working/nexus/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nexus/
+  to /tmp/nexusf4YN6r/nexus-20140114.1305
+    ac-nexus.el -> ac-nexus.el
+    nexus-widget.el -> nexus-widget.el
+    nexus.el -> nexus.el
+Created nexus-20140114.1305.tar containing:
+  nexus-20140114.1305/
+  nexus-20140114.1305/ac-nexus.el
+  nexus-20140114.1305/nexus-pkg.el
+  nexus-20140114.1305/nexus-widget.el
+  nexus-20140114.1305/nexus.el
+Built nexus in 2.890s, finished at Mon Apr  5 16:12:30 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  294 Apr  5 16:12 packages/nexus-20140114.1305.entry
+ 20K -rw-r--r-- 1 root root  20K Apr  5 16:12 packages/nexus-20140114.1305.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:12 packages/nexus-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  5 16:12 packages/nexus-readme.txt

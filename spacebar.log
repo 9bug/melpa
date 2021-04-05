@@ -1,0 +1,11 @@
+Package: spacebar
+Fetcher: github
+Source:  https://github.com/matthias-margush/spacebar.git
+
+Updating /mnt/store/melpa/working/spacebar/
+Built spacebar in 3.605s, finished at Mon Apr  5 16:27:53 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K Apr  5 16:27 packages/spacebar-20190719.334.el
+4.0K -rw-r--r-- 1 root root  417 Apr  5 16:27 packages/spacebar-20190719.334.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:27 packages/spacebar-badge.svg
+4.0K -rw-r--r-- 1 root root  137 Apr  5 16:27 packages/spacebar-readme.txt

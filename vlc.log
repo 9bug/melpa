@@ -1,0 +1,11 @@
+Package: vlc
+Fetcher: github
+Source:  https://github.com/xuchunyang/vlc.el.git
+
+Updating /mnt/store/melpa/working/vlc/
+Built vlc in 3.843s, finished at Mon Apr  5 16:33:27 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K Apr  5 16:33 packages/vlc-20200328.1143.el
+4.0K -rw-r--r-- 1 root root  319 Apr  5 16:33 packages/vlc-20200328.1143.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:33 packages/vlc-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Apr  5 16:33 packages/vlc-readme.txt

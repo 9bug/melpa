@@ -1,0 +1,11 @@
+Package: flymake-vnu
+Fetcher: github
+Source:  https://github.com/theneosloth/flymake-vnu.git
+
+Updating /mnt/store/melpa/working/flymake-vnu/
+Built flymake-vnu in 4.988s, finished at Mon Apr  5 16:57:29 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.7K Apr  5 16:57 packages/flymake-vnu-20181128.216.el
+4.0K -rw-r--r-- 1 root root  353 Apr  5 16:57 packages/flymake-vnu-20181128.216.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:57 packages/flymake-vnu-badge.svg
+4.0K -rw-r--r-- 1 root root   65 Apr  5 16:57 packages/flymake-vnu-readme.txt

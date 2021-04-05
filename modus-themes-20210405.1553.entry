@@ -1,0 +1,11 @@
+(modus-themes .
+	      [(20210405 1553)
+	       ((emacs
+		 (26 1)))
+	       "Highly accessible themes (WCAG AAA)" tar
+	       ((:commit . "a827453b52ad16abca76ec9792a0b48e4314f79b")
+		(:authors
+		 ("Protesilaos Stavrou" . "info@protesilaos.com"))
+		(:maintainer "Protesilaos Stavrou" . "info@protesilaos.com")
+		(:keywords "faces" "theme" "accessibility")
+		(:url . "https://gitlab.com/protesilaos/modus-themes"))])

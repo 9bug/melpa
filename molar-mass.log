@@ -1,0 +1,11 @@
+Package: molar-mass
+Fetcher: github
+Source:  https://github.com/sergiruiztrepat/molar-mass.git
+
+Updating /mnt/store/melpa/working/molar-mass/
+Built molar-mass in 4.065s, finished at Mon Apr  5 16:10:54 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:10 packages/molar-mass-20210324.1832.el
+4.0K -rw-r--r-- 1 root root  384 Apr  5 16:10 packages/molar-mass-20210324.1832.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:10 packages/molar-mass-badge.svg
+4.0K -rw-r--r-- 1 root root  736 Apr  5 16:10 packages/molar-mass-readme.txt

@@ -1,0 +1,10 @@
+Package: thumb-through
+Fetcher: github
+Source:  https://github.com/apg/thumb-through.git
+
+Updating /mnt/store/melpa/working/thumb-through/
+Built thumb-through in 3.224s, finished at Mon Apr  5 16:30:28 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Apr  5 16:30 packages/thumb-through-20120119.534.el
+4.0K -rw-r--r-- 1 root root  175 Apr  5 16:30 packages/thumb-through-20120119.534.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:30 packages/thumb-through-badge.svg

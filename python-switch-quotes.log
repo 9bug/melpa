@@ -1,0 +1,11 @@
+Package: python-switch-quotes
+Fetcher: github
+Source:  https://github.com/vladimirlagunov/python-switch-quotes.git
+
+Updating /mnt/store/melpa/working/python-switch-quotes/
+Built python-switch-quotes in 4.058s, finished at Mon Apr  5 16:22:02 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K Apr  5 16:22 packages/python-switch-quotes-20161228.809.el
+4.0K -rw-r--r-- 1 root root  459 Apr  5 16:22 packages/python-switch-quotes-20161228.809.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:22 packages/python-switch-quotes-badge.svg
+4.0K -rw-r--r-- 1 root root  127 Apr  5 16:22 packages/python-switch-quotes-readme.txt

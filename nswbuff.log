@@ -1,0 +1,11 @@
+Package: nswbuff
+Fetcher: github
+Source:  https://github.com/joostkremers/nswbuff.git
+
+Updating /mnt/store/melpa/working/nswbuff/
+Built nswbuff in 3.522s, finished at Mon Apr  5 16:13:08 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  30K Apr  5 16:13 packages/nswbuff-20210129.850.el
+4.0K -rw-r--r-- 1 root root  482 Apr  5 16:13 packages/nswbuff-20210129.850.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:13 packages/nswbuff-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Apr  5 16:13 packages/nswbuff-readme.txt

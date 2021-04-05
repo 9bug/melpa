@@ -1,0 +1,11 @@
+Package: stylefmt
+Fetcher: github
+Source:  https://github.com/KeenS/stylefmt.el.git
+
+Updating /mnt/store/melpa/working/stylefmt/
+Built stylefmt in 3.824s, finished at Mon Apr  5 16:28:53 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.1K Apr  5 16:28 packages/stylefmt-20161025.824.el
+4.0K -rw-r--r-- 1 root root  286 Apr  5 16:28 packages/stylefmt-20161025.824.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:28 packages/stylefmt-badge.svg
+4.0K -rw-r--r-- 1 root root  293 Apr  5 16:28 packages/stylefmt-readme.txt

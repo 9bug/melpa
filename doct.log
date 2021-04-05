@@ -1,0 +1,11 @@
+Package: doct
+Fetcher: github
+Source:  https://github.com/progfolio/doct.git
+
+Updating /mnt/store/melpa/working/doct/
+Built doct in 5.412s, finished at Mon Apr  5 16:49:00 2021
+ ✓ Success:
+ 52K -rw-r--r-- 1 root root  49K Apr  5 16:48 packages/doct-20210329.2337.el
+4.0K -rw-r--r-- 1 root root  385 Apr  5 16:49 packages/doct-20210329.2337.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:49 packages/doct-badge.svg
+4.0K -rw-r--r-- 1 root root  122 Apr  5 16:49 packages/doct-readme.txt

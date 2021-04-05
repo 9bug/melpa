@@ -1,0 +1,11 @@
+Package: counsel-org-capture-string
+Fetcher: github
+Source:  https://github.com/akirak/counsel-org-capture-string.git
+
+Updating /mnt/store/melpa/working/counsel-org-capture-string/
+Built counsel-org-capture-string in 4.046s, finished at Mon Apr  5 16:45:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:45 packages/counsel-org-capture-string-20200810.1114.el
+4.0K -rw-r--r-- 1 root root  488 Apr  5 16:45 packages/counsel-org-capture-string-20200810.1114.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:45 packages/counsel-org-capture-string-badge.svg
+4.0K -rw-r--r-- 1 root root  256 Apr  5 16:45 packages/counsel-org-capture-string-readme.txt

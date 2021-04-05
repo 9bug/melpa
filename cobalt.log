@@ -1,0 +1,11 @@
+Package: cobalt
+Fetcher: github
+Source:  https://github.com/cobalt-org/cobalt.el.git
+
+Updating /mnt/store/melpa/working/cobalt/
+Built cobalt in 3.543s, finished at Mon Apr  5 16:43:48 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:43 packages/cobalt-20180304.1155.el
+4.0K -rw-r--r-- 1 root root  392 Apr  5 16:43 packages/cobalt-20180304.1155.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:43 packages/cobalt-badge.svg
+4.0K -rw-r--r-- 1 root root  178 Apr  5 16:43 packages/cobalt-readme.txt

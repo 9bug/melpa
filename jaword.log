@@ -1,0 +1,11 @@
+Package: jaword
+Fetcher: github
+Source:  https://github.com/zk-phi/jaword.git
+
+Updating /mnt/store/melpa/working/jaword/
+Built jaword in 3.728s, finished at Mon Apr  5 16:04:20 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K Apr  5 16:04 packages/jaword-20210306.420.el
+4.0K -rw-r--r-- 1 root root  291 Apr  5 16:04 packages/jaword-20210306.420.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:04 packages/jaword-badge.svg
+4.0K -rw-r--r-- 1 root root  714 Apr  5 16:04 packages/jaword-readme.txt

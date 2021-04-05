@@ -1,0 +1,11 @@
+Package: org-anki
+Fetcher: github
+Source:  https://github.com/eyeinsky/org-anki.git
+
+Updating /mnt/store/melpa/working/org-anki/
+Built org-anki in 5.768s, finished at Mon Apr  5 16:14:49 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K Apr  5 16:14 packages/org-anki-20201220.2144.el
+4.0K -rw-r--r-- 1 root root  462 Apr  5 16:14 packages/org-anki-20201220.2144.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:14 packages/org-anki-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Apr  5 16:14 packages/org-anki-readme.txt

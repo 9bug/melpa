@@ -1,0 +1,11 @@
+Package: outrespace
+Fetcher: github
+Source:  https://github.com/articuluxe/outrespace.git
+
+Updating /mnt/store/melpa/working/outrespace/
+Built outrespace in 3.672s, finished at Mon Apr  5 16:17:07 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K Apr  5 16:17 packages/outrespace-20190724.1553.el
+4.0K -rw-r--r-- 1 root root  419 Apr  5 16:17 packages/outrespace-20190724.1553.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:17 packages/outrespace-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Apr  5 16:17 packages/outrespace-readme.txt

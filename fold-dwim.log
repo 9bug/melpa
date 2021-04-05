@@ -1,0 +1,5 @@
+Package: fold-dwim
+Fetcher: github
+Source:  https://github.com/emacsattic/fold-dwim.git
+
+Updating /mnt/store/melpa/working/fold-dwim/

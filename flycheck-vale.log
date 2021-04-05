@@ -1,0 +1,11 @@
+Package: flycheck-vale
+Fetcher: github
+Source:  https://github.com/abingham/flycheck-vale.git
+
+Updating /mnt/store/melpa/working/flycheck-vale/
+Built flycheck-vale in 2.705s, finished at Mon Apr  5 16:56:56 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K Apr  5 16:56 packages/flycheck-vale-20190609.1533.el
+4.0K -rw-r--r-- 1 root root  407 Apr  5 16:56 packages/flycheck-vale-20190609.1533.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:56 packages/flycheck-vale-badge.svg
+4.0K -rw-r--r-- 1 root root  192 Apr  5 16:56 packages/flycheck-vale-readme.txt

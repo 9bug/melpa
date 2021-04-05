@@ -1,0 +1,20 @@
+Package: pallet
+Fetcher: github
+Source:  https://github.com/rdallasgray/pallet.git
+
+Updating /mnt/store/melpa/working/pallet/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pallet/
+  to /tmp/pallet6E8pB7/pallet-20150512.702
+  ! lib/pallet-pkg.el -> pallet-pkg.el
+  ! lib/pallet.el -> pallet.el
+Created pallet-20150512.702.tar containing:
+  pallet-20150512.702/
+  pallet-20150512.702/pallet-pkg.el
+  pallet-20150512.702/pallet.el
+Built pallet in 3.091s, finished at Mon Apr  5 16:17:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  391 Apr  5 16:17 packages/pallet-20150512.702.entry
+ 20K -rw-r--r-- 1 root root  20K Apr  5 16:17 packages/pallet-20150512.702.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:17 packages/pallet-badge.svg
+8.0K -rw-r--r-- 1 root root 5.6K Apr  5 16:17 packages/pallet-readme.txt

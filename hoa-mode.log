@@ -1,0 +1,12 @@
+Package: hoa-mode
+Fetcher: git
+Source:  https://gitlab.lrde.epita.fr/spot/emacs-modes.git
+
+Updating /mnt/store/melpa/working/hoa-mode/
+Note: hoa-mode :files spec is equivalent to the default.
+Built hoa-mode in 4.795s, finished at Mon Apr  5 16:00:58 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  5 16:00 packages/hoa-mode-20200610.1339.el
+4.0K -rw-r--r-- 1 root root  392 Apr  5 16:00 packages/hoa-mode-20200610.1339.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:00 packages/hoa-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  249 Apr  5 16:00 packages/hoa-mode-readme.txt

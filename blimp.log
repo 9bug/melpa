@@ -1,0 +1,11 @@
+Package: blimp
+Fetcher: github
+Source:  https://github.com/walseb/blimp.git
+
+Updating /mnt/store/melpa/working/blimp/
+Built blimp in 3.678s, finished at Mon Apr  5 16:40:58 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  33K Apr  5 16:40 packages/blimp-20180903.2240.el
+4.0K -rw-r--r-- 1 root root  385 Apr  5 16:40 packages/blimp-20180903.2240.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:40 packages/blimp-badge.svg
+4.0K -rw-r--r-- 1 root root  851 Apr  5 16:40 packages/blimp-readme.txt

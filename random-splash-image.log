@@ -1,0 +1,10 @@
+Package: random-splash-image
+Fetcher: github
+Source:  https://github.com/kakakaya/random-splash-image.git
+
+Updating /mnt/store/melpa/working/random-splash-image/
+Built random-splash-image in 3.420s, finished at Mon Apr  5 16:22:28 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K Apr  5 16:22 packages/random-splash-image-20151003.130.el
+4.0K -rw-r--r-- 1 root root  410 Apr  5 16:22 packages/random-splash-image-20151003.130.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:22 packages/random-splash-image-badge.svg

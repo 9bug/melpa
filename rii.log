@@ -1,0 +1,11 @@
+Package: rii
+Fetcher: github
+Source:  https://github.com/ROCKTAKEY/rii.git
+
+Updating /mnt/store/melpa/working/rii/
+Built rii in 3.415s, finished at Mon Apr  5 16:23:40 2021
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  24K Apr  5 16:23 packages/rii-20210317.1330.el
+4.0K -rw-r--r-- 1 root root  384 Apr  5 16:23 packages/rii-20210317.1330.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:23 packages/rii-badge.svg
+8.0K -rw-r--r-- 1 root root 7.2K Apr  5 16:23 packages/rii-readme.txt

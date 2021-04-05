@@ -1,0 +1,10 @@
+Package: go-errcheck
+Fetcher: github
+Source:  https://github.com/dominikh/go-errcheck.el.git
+
+Updating /mnt/store/melpa/working/go-errcheck/
+Built go-errcheck in 3.498s, finished at Mon Apr  5 15:56:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.4K Apr  5 15:56 packages/go-errcheck-20160723.43.el
+4.0K -rw-r--r-- 1 root root  288 Apr  5 15:56 packages/go-errcheck-20160723.43.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 15:56 packages/go-errcheck-badge.svg

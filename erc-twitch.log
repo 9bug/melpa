@@ -1,0 +1,11 @@
+Package: erc-twitch
+Fetcher: github
+Source:  https://github.com/vibhavp/erc-twitch.git
+
+Updating /mnt/store/melpa/working/erc-twitch/
+Built erc-twitch in 3.189s, finished at Mon Apr  5 16:52:11 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.1K Apr  5 16:52 packages/erc-twitch-20170427.606.el
+4.0K -rw-r--r-- 1 root root  426 Apr  5 16:52 packages/erc-twitch-20170427.606.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:52 packages/erc-twitch-badge.svg
+4.0K -rw-r--r-- 1 root root   68 Apr  5 16:52 packages/erc-twitch-readme.txt

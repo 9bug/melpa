@@ -1,0 +1,11 @@
+Package: psalm
+Fetcher: github
+Source:  https://github.com/emacs-php/psalm.el.git
+
+Updating /mnt/store/melpa/working/psalm/
+Built psalm in 3.322s, finished at Mon Apr  5 16:21:24 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K Apr  5 16:21 packages/psalm-20200510.1157.el
+4.0K -rw-r--r-- 1 root root  347 Apr  5 16:21 packages/psalm-20200510.1157.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  5 16:21 packages/psalm-badge.svg
+4.0K -rw-r--r-- 1 root root  945 Apr  5 16:21 packages/psalm-readme.txt
