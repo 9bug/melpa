@@ -1,0 +1,7 @@
+Package: embark-consult
+Fetcher: github
+Source:  https://github.com/oantolin/embark.git
+
+Updating /mnt/store/melpa/working/embark-consult/
+Checking out origin/HEAD
+Checking out 560af655922582f3f20a46fb1969915ee34028a4

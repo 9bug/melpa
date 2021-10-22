@@ -1,0 +1,6 @@
+Package: ember-mode
+Fetcher: github
+Source:  https://github.com/madnificent/ember-mode.git
+
+Updating /mnt/store/melpa/working/ember-mode/
+Checking out origin/HEAD

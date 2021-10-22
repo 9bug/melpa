@@ -1,0 +1,12 @@
+Package: embark
+Fetcher: github
+Source:  https://github.com/oantolin/embark.git
+
+Updating /mnt/store/melpa/working/embark/
+Checking out origin/HEAD
+Checking out 560af655922582f3f20a46fb1969915ee34028a4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/embark/
+  to /tmp/embarkmrcNQG/embark-20211022.4
+    embark.el -> embark.el
+    embark.texi -> embark.texi
